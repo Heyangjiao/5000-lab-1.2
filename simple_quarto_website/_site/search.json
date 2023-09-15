@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "slides.html#getting-up",
+    "href": "slides.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides.html#going-to-sleep",
+    "href": "slides.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "slides.html#going-out",
+    "href": "slides.html#going-out",
+    "title": "Habits",
+    "section": "going out",
+    "text": "going out\n-play basketball -watch film Nulla at volutpat diam ut venenatis tellus in metus.[@Philip2012]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nFirst\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit egestas dui id ornare arcu odio ut. Gravida in fermentum et sollicitudin ac orci phasellus egestas.\n\n\nsecond\n\n\n\nitem Non odio euismod lacinia at quis risus.\n\nUt lectus arcu bibendum at. Malesuada pellentesque elit eget gravida. Ipsum faucibus vitae aliquet nec ullamcorper sit. Euismod quis viverra nibh cras item Ac odio tempor orci dapibus.\nOrnare lectus sit amet est placerat in egestas erat. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum\n\n\n\n\nthird\n\n\n\nMalesuada fames ac turpis egestas maecenas pharetra convallis. Nibh sed pulvinar proin gravida hendrerit.\n\n\nErat imperdiet sed euismod nisi porta. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.\n\n\n\n\n\n\nHeader 1\nHeader 2\nHeader 3\n\n\n\n\nRow 1, Col 1\nRow 1, Col 2\nRow 1, Col 3\n\n\nRow 2, Col 1\nRow 2, Col 2\nRow 2, Col 3\n\n\n\n\\(E=mc^2\\). \\[\n\\int_{0}^{1} x^2 \\, dx = \\frac{1}{3}\n\\] Ut faucibus pulvinar elementum integer. [^1]. &gt; Faucibus et molestie ac feugiat sed. Justo donec enim diam vulputate ut pharetra.\n\n  \n\n\n\n\ngraph TD;\n  A--&gt;B;\n  A--&gt;C;\n  B--&gt;D;\n  C--&gt;D;\n\n\n\n\n\nNulla at volutpat diam ut venenatis tellus in metus.(Philip J. Davis 2012)\n\n\n\n\nReferences\n\nPhilip J. Davis, Elena Anne Marchisotto, Reuben Hersh. 2012. The Mathematical Experience, Study Edition. Boston: Birkhäuser."
+  }
+]

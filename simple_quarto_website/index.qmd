@@ -1,0 +1,63 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+<h1>First</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit egestas dui id ornare arcu odio ut. Gravida in fermentum et sollicitudin ac orci phasellus egestas.</p>
+<h2>second</h2>
+<p>- item Non odio euismod lacinia at quis risus. 
+   - Ut lectus arcu bibendum at. Malesuada pellentesque elit eget gravida. Ipsum faucibus vitae aliquet nec ullamcorper sit. Euismod quis viverra nibh cras   item Ac odio tempor orci dapibus. 
+   - Ornare lectus sit amet est placerat in egestas erat. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum</p>
+
+<h3>third</h3>
+<div class="row">
+  <div class="column">
+    Malesuada fames ac turpis egestas maecenas pharetra convallis. Nibh sed pulvinar proin gravida hendrerit.
+  </div>
+  <div class="column">
+    Erat imperdiet sed euismod nisi porta. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
+  </div>
+</div>
+<p>
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+$E=mc^2$.
+$$
+\int_{0}^{1} x^2 \, dx = \frac{1}{3}
+$$
+Ut faucibus pulvinar elementum integer. [^1]. 
+> Faucibus et molestie ac feugiat sed. Justo donec enim diam vulputate ut pharetra. </p>
+<img src="image1.png"  width="300" height="200" />
+<img src="image1.png"  width="300" height="200" />
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4fezP875xOQ" frameborder="0" allowfullscreen></iframe>
+```{mermaid}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+Nulla at volutpat diam ut venenatis tellus in metus.[@Philip2012]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
